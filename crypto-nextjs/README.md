@@ -9,5 +9,3 @@ npm run dev
 # or
 yarn dev
 ```
-
-https://www.youtube.com/watch?v=Kff_KRvpxj4
